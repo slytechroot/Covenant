@@ -1,0 +1,38 @@
+Covenant C2 web links:
+
+https://github.com/cobbr/Covenant
+https://github.com/cobbr/Covenant/wiki/Installation-And-Startup
+https://www.sevenlayers.com/index.php/370-covenant-c2-deep-dive
+https://github.com/MrEmpy/RPI4-Covenant-C2-Installer/blob/main/install.sh
+https://blog.netwrix.com/2022/12/16/covenant-c2-tutorial/
+
+Using Covenant C2 with Active Directory
+https://www.youtube.com/watch?v=wPWEZ5MlbeM
+
+Getting Started With C2 Servers - Covenant C2
+https://www.youtube.com/watch?v=BLMW0fougFM
+
+How To Actually Use Covenant C2 For Command and Control
+https://www.youtube.com/watch?v=iX_qsbbNk2w
+
+Red Teaming 101: How to Evade HELK Logging with Covenant C2
+https://www.youtube.com/watch?v=59Zl2g2NYXA
+
+Initial Access - Phishing Payload Preparation with Windows Defender Bypass
+https://www.youtube.com/watch?v=QNfvombwMsg&t=812s
+
+Installing Covenant C2 - Step By Step Walkthrough
+https://www.youtube.com/watch?v=ovegSNq4H9Q
+
+Covenant C2 - Implement HTTPS Encryption and Modify Network Indicators
+https://www.youtube.com/watch?app=desktop&v=4Zd2IrBju_w
+
+
+
+
+
+
+
+
+
+
